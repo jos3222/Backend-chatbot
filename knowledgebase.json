@@ -1,0 +1,24 @@
+{
+  "practice": {
+    "name": "E-scooter Alblasserwaard",
+    "address": "Straat 1, 1234 AB Plaats",
+    "phone": "+31 6 12 34 56 78",
+    "email": "info@e-scooteralblasserwaard.nl",
+    "hours": {
+      "ma-vr": "08:00–17:00",
+      "za": "09:00–13:00",
+      "zo": "Gesloten"
+    },
+    "booking_url": "https://jouw-boekingslink.nl"
+  },
+  "faqs": [
+    {
+      "q": "Wat zijn jullie openingstijden?",
+      "a": "Ma–Vr 08:00–17:00, Za 09:00–13:00."
+    },
+    {
+      "q": "Hoe maak ik een afspraak?",
+      "a": "Via: https://jouw-boekingslink.nl"
+    }
+  ]
+}
